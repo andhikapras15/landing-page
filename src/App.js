@@ -42,7 +42,7 @@ function App() {
           <div className="h-full">
             <img
               alt="logo"
-              src="./transvision.JPEG"
+              src="./transvision.jpeg"
               className="h-96 w-screen mt-28 mb-"
             />
           </div>
@@ -58,7 +58,7 @@ function App() {
             channel inhouse dan channel eksklusif
           </p>
           <div className="flex justify-around mt-5">
-            <img alt="hd" src="./hd.JPEG" className="w-24 h-20" />
+            <img alt="hd" src="./hd.jpeg" className="w-24 h-20" />
             <img alt="benefit" src="./benefit.jpeg" className="w-24 h-20" />
             <img alt="cs" src="./cs.jpeg" className="w-24 h-20" />
           </div>
